@@ -23,7 +23,7 @@ This demo uses a simple CNN for the classification of the doodles made. The soft
 2. React- UI 
 
 
-This demo was inspired by AIrbnb's work on SKetching INterfaces. This demo was made while I was a frontend developer. I was inspored to make this as I saw a lot of developers spending time on coding the UI from the mockups, this time could be better spent in coding the functionality behing the UI. Doodle master  seeks to build a painless and natural way of prototyping interfaces. This tool can be used by designers and developers alike to showcase ideas quickly in the form of real code.
+This demo was inspired by AIrbnb's work on SKetching INterfaces. This demo was made while I was a frontend developer. I was inspired to make this as I saw a lot of developers spending time on coding the UI from the mockups, this time could be better spent in coding the functionality behing the UI. Doodle master  seeks to build a painless and natural way of prototyping interfaces. This tool can be used by designers and developers alike to showcase ideas quickly in the form of real code.
 
 
 ##### Note
